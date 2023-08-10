@@ -1,0 +1,19 @@
+#infodiv {
+    display: flex;
+    width: 83%;
+}
+
+.tablerow {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid green;
+    height: 5vh;
+    
+}
+
+
+
+.rowselected {
+    background-color: blueviolet;
+    
+}

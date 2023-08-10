@@ -1,0 +1,22 @@
+#table {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 7vh;
+}
+
+#table tbody {
+    color: rgb(54, 53, 53);
+}
+
+#table::after {
+    border-top: 1 px solid green;
+}
+
+#flighttable {
+    height: 100%;
+    width: 70%;
+    border: 1px solid black;
+}
+

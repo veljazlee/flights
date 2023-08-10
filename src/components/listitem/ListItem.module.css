@@ -1,0 +1,16 @@
+.listitem {
+    border-bottom: 1px solid blue;
+    text-indent: 5px;
+    font-size: 2vw;
+    height: 5vh;
+    display:flex;
+    align-items: center;
+}
+
+.listitem:hover {
+    background-color: brown;
+}
+
+.selected {
+    background-color: blueviolet;
+}

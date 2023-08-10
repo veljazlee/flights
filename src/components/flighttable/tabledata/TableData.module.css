@@ -1,0 +1,9 @@
+.tabledata {
+    font-size: 2vw;
+    width: 20%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

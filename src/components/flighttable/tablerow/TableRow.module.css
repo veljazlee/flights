@@ -1,0 +1,17 @@
+.tablerow {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid green;
+    height: 5vh;
+    
+}
+
+.tablerow:hover {
+    background-color: brown;
+    
+}
+
+.rowselected {
+    background-color: blueviolet;
+    
+}

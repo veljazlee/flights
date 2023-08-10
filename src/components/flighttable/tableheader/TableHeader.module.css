@@ -1,0 +1,18 @@
+#thead {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid green;
+    background-color: antiquewhite;
+}
+#thead tr {
+    width: 100%;
+    display: flex;
+
+}
+#thead th {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5vw;
+    
+}

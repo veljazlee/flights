@@ -1,0 +1,42 @@
+#infotable {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    font-size: 1.5vw;
+    margin-top: 7vh;
+    
+   
+}
+
+#infotable tbody {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    
+    
+}
+
+#infotable tbody:first-child {
+    border-top: 1px solid blue;
+} 
+
+#infotable tbody tr {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 6vh;
+    border-bottom: 1px solid rgb(26, 77, 153);
+    align-items: center;
+
+    
+}
+
+#infotable tbody th {
+    margin-left:10px;
+}
+
+#infotable tbody td {
+    
+    width: 30%;
+}
